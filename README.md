@@ -1,8 +1,6 @@
 # node-docker
 dockerizing node app
 
-```
-
 ## Usage
 
 ```
